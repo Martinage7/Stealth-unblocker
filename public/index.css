@@ -6,7 +6,7 @@ body {
     background-size: cover
   background-color:#0b1f3d;
 }
-
+  background-color: lightblue;
 .container {
     margin-top: 10%;
     font-family: "Ubuntu";
@@ -50,7 +50,7 @@ body {
 
 #btn:hover {
     background: #0066ff;
-    color: #1f427a;
+    color: #FFF;
     background-repeat: no-repeat;
 }
 
